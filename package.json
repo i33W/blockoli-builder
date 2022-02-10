@@ -39,7 +39,9 @@
     "asar": false,
     "publish": [
       {
-        "provider": "github"
+        "provider": "github",
+        "owner": "i33w",
+        "repo": "blockoli-builder"
       }
     ],
     "win": {
